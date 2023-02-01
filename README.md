@@ -6,4 +6,5 @@ Esse projeto teve como objetivo a criação de um curriculo pessoal durante a jo
 colocando em pratica o aprendizado das bases do html e colocando em execução algumas etapas para
 subir e alimentar um projeto no github. 
 
+Link do curriculo criado : https://tataifmg.github.io/devweekgit.github.io/
 
